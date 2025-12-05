@@ -154,3 +154,7 @@ Customer Experience: Ratings insights guide improvements across outlet categorie
 
 Strategic Expansion: Outlet establishment trends support decisions for opening new stores
 
+# Dashboard Look 
+![Blinkit Dashboard](https://github.com/yash966/Blinkit-Dashboard/blob/main/BlinkitDashboard.png)
+
+
